@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CYCLES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ced9fe8827150a2a65b2a04004e85a1feb5889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b87d74af9b264efab2fb8f31c4d23a802ffc3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CYCLES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CYCLES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
