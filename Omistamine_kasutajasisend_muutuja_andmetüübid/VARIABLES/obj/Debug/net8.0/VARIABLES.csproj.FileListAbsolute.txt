@@ -1,0 +1,14 @@
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\bin\Debug\net8.0\VARIABLES.exe
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\bin\Debug\net8.0\VARIABLES.deps.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\bin\Debug\net8.0\VARIABLES.runtimeconfig.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\bin\Debug\net8.0\VARIABLES.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\bin\Debug\net8.0\VARIABLES.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\refint\VARIABLES.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\VARIABLES.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Omistamine_kasutajasisend_muutuja_andmetüübid\VARIABLES\obj\Debug\net8.0\ref\VARIABLES.dll
