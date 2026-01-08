@@ -92,14 +92,14 @@
              * kui programm on õigesti kirjutatud, 
              * siis kuvatakse kasutajale välja elemendid kakskümmend ja viiskümmend
              */
-            int[] apelsiniMahl = [1, 50, 10, 15, 20];
-            foreach (var arv in apelsiniMahl)
-            {
-                if(arv > 15)
-                {
-                    Console.WriteLine(arv);
-                }
-            }
+            //int[] apelsiniMahl = [1, 50, 10, 15, 20];
+            //foreach (var arv in apelsiniMahl)
+            //{
+            //    if(arv > 15)
+            //    {
+            //        Console.WriteLine(arv);
+            //    }
+            //}
 
 
 
@@ -112,6 +112,9 @@
             // kirjuta foreach tsükkel, ja võta kollektsiooniparameetriks oma viie elemendiga massiivi muutuja nimetus
             // tsükli sisse liida oma täisarvu tüüpi muutujale elemendi sees olev arv juurde
             // peale tsüklit kuva kasutajale oma täisarvu tüüpi muutuja välja
+
+
+           
 
         }
     }
