@@ -37,17 +37,17 @@
             /* 
              * NB programm peab niikaua käima kuni kasutaja sisestus on suurem või võrdne kui 40.000
              */
-            float CO2tase = 0.0f;
-            while (CO2tase <= 40f)
-            {
-                Console.WriteLine("Mis on CO2 tase?");
-                CO2tase = float.Parse(Console.ReadLine());
-                if (CO2tase <= 40f)
-                {
-                    Console.WriteLine("Otsest ohtu ei ole");
-                }
-            }
-            Console.WriteLine("Evakueeru hoonest, CO2tase tase on liiga kõrge!!!");
+            //float CO2tase = 0.0f;
+            //while (CO2tase <= 40f)
+            //{
+            //    Console.WriteLine("Mis on CO2 tase?");
+            //    CO2tase = float.Parse(Console.ReadLine());
+            //    if (CO2tase <= 40f)
+            //    {
+            //        Console.WriteLine("Otsest ohtu ei ole");
+            //    }
+            //}
+            //Console.WriteLine("Evakueeru hoonest, CO2tase tase on liiga kõrge!!!");
 
 
 
