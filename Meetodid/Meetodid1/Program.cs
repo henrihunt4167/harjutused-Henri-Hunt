@@ -1,4 +1,6 @@
-﻿namespace Meetodid1
+﻿using System.IO.MemoryMappedFiles;
+
+namespace Meetodid1
 {
     internal class Program
     {
@@ -12,30 +14,65 @@
             return sisend;
         }
 
-        
 
 
 
-        static void Main(string[] args)
-        
+
+        private static void Main(string[] args)
         {
 
             List<string> filmid = GetMovies();
             Console.WriteLine("Milline on sinu lemmikfilm");
             string lemmikfilm = ReadAnswer();
             DoesMovieExist(filmid, lemmikfilm);
+
+
+            List<string> otsitavadFilmid = new List<string> { "Terminator", "Vanamehe film", "Kratt" };
+            IdentifyMovies(filmid, otsitavadFilmid);
         }
-        
+
+
+        public static void IdentifyMovies(List<string> collection, List<string> filter)
+        {
+            string messages = "";
+            foreach (var movie in collection)
+            {
+                int itemnr = 0;
+                foreach (var filterItem in filter)
+                {
+                    if (itemnr == 0)
+                    {
+                        messages += "Ill be back. \n";
+                    }
+                    else if (itemnr == 1)
+                    {
+                        messages += "Šnikurs\n";
+                    }
+                    else if (itemnr == 2)
+                    {
+                        messages += "Vaata et ta sul tehisplära ajama ei hakka\n";
+                    }
+                    itemnr++;
+                }
+                Console.WriteLine(messages);
+            }
+        }
+
+
+
+
+
+
+
         public static List<string> DoYouLikeThiMovie(List<string> collection, string movieToAdd)
         {
 
-        
-            if (Collection.Contains(movieToAdd) == false)
+
+            if (collection.Contains(movieToAdd) == false)
             {
                 Console.WriteLine($"Kas sulle meeldi {movieToAdd}?");
                 string vastus = ReadAnswer();
-            }
-            if (vastus == "jah")
+                if (vastus == "jah")
             {
                 collection.Add(movieToAdd);
                 Console.WriteLine("Lisasin filmi sulle");
@@ -44,13 +81,15 @@
             {
                 Console.WriteLine("Aga miks? See on ju hea film?");
             }
+            }
+            
 
-                return collection;
+            return collection;
         }
         public static void DoesMovieExist(List<string> collection, string findThis)
         {
             bool itExists = false;
-            foreach  (var item in collection)
+            foreach (var item in collection)
             {
                 if (item == findThis)
                 {
@@ -93,4 +132,4 @@
         }
 
     }
-}   
+}

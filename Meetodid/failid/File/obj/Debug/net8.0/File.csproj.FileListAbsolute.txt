@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\bin\Debug\net8.0\File.exe
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\bin\Debug\net8.0\File.deps.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\bin\Debug\net8.0\File.runtimeconfig.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\bin\Debug\net8.0\File.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\bin\Debug\net8.0\File.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.sourcelink.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\refint\File.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\File.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\File\obj\Debug\net8.0\ref\File.dll
