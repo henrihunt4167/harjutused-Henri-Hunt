@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\bin\Debug\net8.0\failmeetod.exe
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\bin\Debug\net8.0\failmeetod.deps.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\bin\Debug\net8.0\failmeetod.runtimeconfig.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\bin\Debug\net8.0\failmeetod.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\bin\Debug\net8.0\failmeetod.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.sourcelink.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\refint\failmeetod.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\failmeetod.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\Meetodid\failid\failmeetod\obj\Debug\net8.0\ref\failmeetod.dll
