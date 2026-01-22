@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Numerics;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -13,7 +15,30 @@
         Console.WriteLine("Kõik laulusõnad");
 
         DisplayThisFile();
+
+        FindWord("Denial");
     }
+    public static void FindWord(string findThisWord)
+    {
+        using (StreamReader readFile = new StreamReader(
+            "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\failid\\File\\jjjj.txt") )
+        {
+            int lnr = 0;
+            while (readFile.EndOfStream == false)
+            {
+                string line = readFile.ReadLine();
+                lnr++;
+
+                if (line.Contains(findThisWord) == true)
+                {
+                    Console.WriteLine(findThisWord + " leiti reast " + lnr);
+                }
+            }
+            readFile.Close();
+        }
+    }
+
+
     private static void DisplayThisFile()
     {
         string line = "";
