@@ -5,15 +5,79 @@
         static void Main(string[] args)
         {
             //tee neli bool-tüüpi muutujat,
-
+            
             //nimedeks pane neile pliiatsid, paber, saag, lauad
+            bool pliiatsid = false;
+            bool paber = false;
+            bool saag = false;
+            bool lauad = false;
+
+           string sisestus = "";
 
             //küsi kasutajalt muutujasse "sisestus" vastus iga objekti
             //kohta küsimus "kas tal on X?" millele kasutaja saab vastata jah või ei
             //küsimine EI PEA olema tsüklis, võib ka teha 4 küsimust järjest
+            Console.WriteLine("Kas teil on pliiatsid");
+            if (sisestus == "jah")
+            {
+                pliiatsid = true;
+            }
+            else
+            {
+               pliiatsid = false;
+            }
+            if (sisestus == "jah")
+            {
+                paber = true;
+            }
+            else
+            {
+                paber = false;
+            }
+            if (sisestus == "jah")
+            {
+                saag = true;
+            }
+            else
+            {
+                saag = false;
+            }
+            if (sisestus == "jah")
+            {
+                lauad = true; 
+            }
+            else
+            {
+                lauad = false;
+            
 
+                if ( saag && lauad && !pliiatsid && !paber)
+                {
+                    Console.WriteLine("Võiksid õppida tisleriks");
+                }
+                else if (!saag && !lauad && pliiatsid && paber)
+                {
+                    Console.WriteLine("võiksid õppida arhitektiks");
+                }
+                else if ( saag && lauad && pliiatsid && paber)
+                {
+                    Console.WriteLine("Võiksid õppida arhitektiks ja tisleriks");
+                }
+                else if (!pliiatsid && paber && lauad && !saag)
+                    {
+                    Console.WriteLine("Sul on tööriistad, materjale pole, ma ei oska öelda");
+                }
+                else if (!saag && lauad && !pliiatsid && paber)
+                {
+                    Console.WriteLine("Sul on materjal, aga tööriistu mitte, mine k-rautasse");
+                }
+                else
+                {
+                    Console.WriteLine("Tühjade kätega ei tee midagi");
+                }
             //kui ta on mingi objekti kohta vastanud ei, siis pane vastavasse muutujasse false
             //samamoodi kui ta on mingi objekti kohta vastanud jah, siis pane vastavasse muutujasse true
+
 
             //"kas sul on paber?" on vastus = "jah" siis paber = true jne
 

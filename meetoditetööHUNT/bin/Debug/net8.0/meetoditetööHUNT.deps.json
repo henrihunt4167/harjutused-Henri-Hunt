@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "meetoditetööHUNT/1.0.0": {
+        "runtime": {
+          "meetoditetööHUNT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meetoditetööHUNT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

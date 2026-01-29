@@ -4,13 +4,13 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //Console.WriteLine("Kirjuta siia oma postikasti aadress");
+        Console.WriteLine("Kirjuta siia oma postikasti aadress");
 
 
-        //string filePath = "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\failid\\File\\postkastiaadress.txt";
-        //string aadress = Console.ReadLine();
+        string filePath = "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\failid\\File\\postkastiaadress.txt";
+        string aadress = Console.ReadLine();
 
-        //File.WriteAllText(filePath, aadress);
+        File.WriteAllText(filePath, aadress);
 
         Console.WriteLine("Kõik laulusõnad");
 

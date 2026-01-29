@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.sourcelink.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\bin\Debug\net8.0\meetoditetööHUNT.exe
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\bin\Debug\net8.0\meetoditetööHUNT.deps.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\bin\Debug\net8.0\meetoditetööHUNT.runtimeconfig.json
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\bin\Debug\net8.0\meetoditetööHUNT.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\bin\Debug\net8.0\meetoditetööHUNT.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\refint\meetoditetööHUNT.dll
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.pdb
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\meetoditetööHUNT.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\harjutused Henri Hunt\meetoditetööHUNT\obj\Debug\net8.0\ref\meetoditetööHUNT.dll
