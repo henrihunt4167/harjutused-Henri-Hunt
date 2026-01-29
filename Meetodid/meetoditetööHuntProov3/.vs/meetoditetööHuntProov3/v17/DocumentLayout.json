@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\MeetodidHUNT2\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\meetoditet\u00F6\u00F6HuntProov3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{656CCA0F-54A5-4544-9D66-F24CD74C03D2}|MeetodidHUNT2.csproj|c:\\users\\opilane\\source\\repos\\harjutused henri hunt\\meetodid\\meetodidhunt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656CCA0F-54A5-4544-9D66-F24CD74C03D2}|MeetodidHUNT2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D78F89-D150-4EB0-AFC4-FD3F4B351BA9}|meetoditet\u00F6\u00F6HuntProov3.csproj|c:\\users\\opilane\\source\\repos\\harjutused henri hunt\\meetodid\\meetoditet\u00F6\u00F6huntproov3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D78F89-D150-4EB0-AFC4-FD3F4B351BA9}|meetoditet\u00F6\u00F6HuntProov3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,13 +64,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\MeetodidHUNT2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\meetoditet\u00F6\u00F6HuntProov3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\MeetodidHUNT2\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\harjutused Henri Hunt\\Meetodid\\meetoditet\u00F6\u00F6HuntProov3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAD4vyoAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:37:51.478Z",
+              "WhenOpened": "2026-01-29T08:18:25.603Z",
               "EditorCaption": ""
             }
           ]

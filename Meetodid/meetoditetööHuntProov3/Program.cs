@@ -5,28 +5,28 @@
         static void Main(string[] args)
         {
             //1. ülesanne
-            float arv1 = 0.0f;
-            float arv2 = 0.0f;
-            float arv3 = 0.0f;
-            float arv4 = 0.0f;
-            float arv5 = 0.0f;
+            float arv1 = 4.0f;
+            float arv2 = 5.0f;
+            float arv3 = 6.0f;
+            float arv4 = 7.0f;
+            float arv5 = 8.0f;
             Tervitus();
             //2. ülesanne
-            Console.WriteLine("Palun sisesta esimene arv.");
+            Console.WriteLine("Sisesta palun esimene arv.");
             arv1 = float.Parse(Console.ReadLine());
-            Console.WriteLine("Palun sisesta teine arv.");
+            Console.WriteLine("Sisesta palun teine arv.");
             arv2 = float.Parse(Console.ReadLine());
-            Console.WriteLine("Palun sisesta kolmas arv.");
+            Console.WriteLine("Sisesta palun kolmas arv.");
             arv3 = float.Parse(Console.ReadLine());
-            Console.WriteLine("Palun sisesta neljas arv");
+            Console.WriteLine("Sisesta palun neljas arv");
             arv4 = float.Parse(Console.ReadLine());
-            Console.WriteLine("Palun sisesta viies arv");
+            Console.WriteLine("Sisesta palun viies arv");
             arv5 = float.Parse(Console.ReadLine());
             List<float> arvud = new List<float> { arv1, arv2, arv3, arv4, arv5 };
             Arvutus(arvud);
             //3. ülesanne
             string nimi = "";
-            Console.WriteLine("Mis teie sinu nimi?");
+            Console.WriteLine("Mis on sinu nimi?");
             nimi = Console.ReadLine();
             nimepikkus(nimi);
             //4.ülesanne
@@ -61,11 +61,11 @@
         {
             if (kaugused > 1 && kaugused < 5)
             {
-                Console.WriteLine("ainult poodi jõudsid?");
+                Console.WriteLine("ainult poodi jõudsid");
             }
             else if (kaugused > 5 && kaugused < 10)
             {
-                Console.WriteLine("üle linna kõndisid?");
+                Console.WriteLine("üle linna kõndisid");
             }
             else if (kaugused > 10 && kaugused < 20)
             {
